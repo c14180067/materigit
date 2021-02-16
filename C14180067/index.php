@@ -4,5 +4,12 @@
     </head>
     <body>
         <h2>C14180067 - Alfonsus Enrico</h2>
+        Mata Kuliah yang Saya Sukai:
+        <ul>
+            <li>Pemrograman Android</li>
+            <li>Pemrograman iOS</li>
+            <li>Pemrograman Mobile Native</li>
+            <li>Keamanan Perangkat Mobile</li>
+        </ul>
     </body>
 </html>
