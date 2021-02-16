@@ -11,5 +11,6 @@
             <li>Pemrograman Mobile Native</li>
             <li>Keamanan Perangkat Mobile</li>
         </ul>
+        Ide saya sejauh ini untuk proyek kelas Pemrograman Berbasis Web adalah Money Investment Manager
     </body>
 </html>
