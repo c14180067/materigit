@@ -4,6 +4,7 @@
     </head>
     <body>
         <h2>C14180067 - Alfonsus Enrico</h2>
+<<<<<<< HEAD
         Select any date
     <form method="post" action="">
         <input type="date1" name="date1"/>
@@ -18,5 +19,9 @@
             echo $value." days";
         }
     ?>
+=======
+        <button>Button 1</button>
+        <button>Button 2</button>
+>>>>>>> C14180067-F
     </body>
 </html>
