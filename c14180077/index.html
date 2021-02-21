@@ -1,0 +1,37 @@
+c14180077
+<br>
+kevin hartono
+<br>
+tambahan 2 buah
+<br>
+
+<input type="date" id="date1">
+<input type="date" id="date2">
+<input type="submit" onclick="getDuration()">
+<br>
+<h3 id="hasil"></h3>
+
+
+<br>
+<br>
+yang saya dapat belajar command yang dibutuhkan saat menggunakan git
+
+<script>
+function getDuration(){
+    var input1 = document.getElementById("date1");
+    var input2 = document.getElementById("date2");
+    var dateInput = new Date(input1.value);
+    var dateNow = new Date(input2.value);
+    
+    var Difference_In_Time = Math.abs(dateInput.getTime() - dateNow.getTime()); 
+    var Difference_In_Days = Difference_In_Time / (1000 * 3600 * 24);
+    
+    document.getElementById("hasil").innerHTML = "selisih " + parseInt(Difference_In_Days) + " hari";
+
+    // console.log(parseInt(Difference_In_Days));
+}
+</script>
+PAB android
+<br>
+Aplikasi pencatatan mobil pribadi
+<br>
